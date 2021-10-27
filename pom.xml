@@ -36,7 +36,7 @@
     </build>
          <distributionManagement>
    <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>deployment</id>
       <url>http://54.163.196.174:8081/repository/maven-snapshots/</url>
    </snapshotRepository>
 </distributionManagement>
