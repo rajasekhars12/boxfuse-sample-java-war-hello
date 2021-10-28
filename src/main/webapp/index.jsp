@@ -4,6 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
+<h1>img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsun%2F&psig=AOvVaw3wh-ITOnEPZZRvjzXUMnhK&ust=1635474389187000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiOq4GH7PMCFQAAAAAdAAAAABAD"</h1>
 <img src="boxfuse.png">
 
 <h2>!</h2>
